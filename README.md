@@ -57,4 +57,6 @@ The **Pizza Sales Dashboard** provides a comprehensive view of business performa
 ## 📁 Dashboard sreenshots
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/22327d95-6b37-4a03-9b19-80cb77588a55)
+![Best and Worst sellers](https://github.com/user-attachments/assets/dd1cf6c7-111e-4dd5-a34a-b470c0b49d3e)
+
 
